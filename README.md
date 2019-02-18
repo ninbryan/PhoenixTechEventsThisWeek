@@ -40,6 +40,10 @@ Learn to Code Phoenix
 
 
 ### February 21st (Thur.)
+>_11:00am @ Rio Salado College (Tempe)_    
+**[ISACA Phoenix Chapter Meeting](https://engage.isaca.org/phoenixchapter/home)**   
+Information Systems Audit and Control Association  
+
 >_3:00pm @ Galvanize (Phoenix)_    
 **[Delivering Applications with Spinnaker](https://www.meetup.com/Phoenix-DevOps-Meetup/events/257880549/)**   
 Phoenix DevOps Meetup       
