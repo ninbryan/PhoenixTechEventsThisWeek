@@ -99,7 +99,7 @@ Grand Canyon University
 ### February 23rd (Sat.)
 >_9:00am @ ASU West Campus (Glendale)_    
 **[2019 Arizona High School Science Bowl ](https://azsciencebowl.org/event-information/)**   
-JestPHP          
+AZ SciTech          
 
 >_10:00am @ Galvanize (Phoenix)_    
 **[Learn to Code Saturday! JavaScript Mini Bootcamp Part 2 of 2](https://www.eventbrite.com/e/learn-to-code-saturday-javascript-mini-bootcamp-part-2-of-2-tickets-56070850423)**   
