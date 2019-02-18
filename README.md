@@ -1,4 +1,4 @@
-# Upcoming Phoenix Tech Events 👩‍💻🌵👨‍💻
+# Phoenix Tech Events This Week 👩‍💻🌵👨‍💻
 
 ### February 19th (Tue.)
 >_5:30pm @ Echo Coffee (Scottsdale)_    
@@ -72,6 +72,10 @@ Microservices and Cloud Native Apps - Phoenix
 **[PLUG's Security Meeting](https://www.meetup.com/Phoenix-Linux-Users-Group/events/rdksdpyzdbcc/)**     
 Phoenix Linux Users Group   
 
+>_6:30pm @ University of Advanicing Technology (Tempe)_      
+**[Autonomous Vehicle Implementation Predictions Implications for Transport Planning](https://www.meetup.com/phxmobi/events/258888015/)**     
+Phoenix Mobile & Emerging Tech Group  
+
 
 
 ### February 22nd (Fri.)
@@ -83,3 +87,33 @@ JestPHP
 **[ABA Smart Cities Conference ($0-$200)](https://asulawcle.com/product/aba-smart-cities-conference/)**   
 Sandra Day O’Connor College of Law at ASU
 
+>_8:30am @ Phoenix College Auditorium (Phoenix)_    
+**[2019 Arizona Regional Open Educational Resources (OER) Conference](https://mcli.maricopa.edu/mcli-calendar/events/2019-az-regional-oer-conference-building-and)**   
+Maricopa Millions Project
+
+>_5:00pm @ GCU Ethington Theatre (Phoenix)_    
+**[TEDxGrandCanyonUniversity](https://www.tedxgrandcanyonuniversity.org/)**   
+Grand Canyon University
+
+
+### February 23rd (Sat.)
+>_9:00am @ ASU West Campus (Glendale)_    
+**[2019 Arizona High School Science Bowl ](https://azsciencebowl.org/event-information/)**   
+JestPHP          
+
+>_10:00am @ Galvanize (Phoenix)_    
+**[Learn to Code Saturday! JavaScript Mini Bootcamp Part 2 of 2](https://www.eventbrite.com/e/learn-to-code-saturday-javascript-mini-bootcamp-part-2-of-2-tickets-56070850423)**   
+Learn to Code Phoenix
+
+
+---
+
+## Some Upcoming Events 📅🤓
+
+_Feb. 25th (Mon)_ : [Cybersecurity and Basic Hacks](https://www.meetup.com/Central-Cyber-Security-Meetup/events/258795950/)   
+_Feb. 26th (Tue)_ : [ReactJS @ Carvana](https://www.meetup.com/Phoenix-ReactJS/events/258247859/)   
+_Feb. 26th (Tue)_ : [SciTech Institute Hosts WWCode](https://www.meetup.com/Women-Who-Code-Phoenix/events/258795347/)  
+_Feb. 27th (Wed)_ : [Hands-on Intro to Kubernetes](https://www.meetup.com/Docker-Phoenix/events/259001013/)  
+_Feb. 27th (Wed)_ : [Learn to Code! Introduction to Python](https://www.eventbrite.com/e/learn-to-code-introduction-to-python-tickets-55729474358)  
+_Feb. 28th (Thur)_ : [Fundamental Techniques of Data Science & Feedback Learning for ML Systems](https://www.meetup.com/Data-Science-Phoenix/events/qfzrlqyzdblc/)  
+**_Mar. 4th-9th_ : [PHX Startup Week 2019](https://phxstartupweek.com/)**    
